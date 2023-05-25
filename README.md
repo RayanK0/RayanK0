@@ -37,8 +37,7 @@
       alt="css3"/>
   </a>
 <a href="https://www.w3schools.com/nodejs/" target="_blank">
-  <img src="[https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
-)"
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
       alt="css3"/>
   </a>
 
