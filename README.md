@@ -8,7 +8,7 @@
 ### 🧭Over mij
 
 
-- 16 jaar oud
+- 17 jaar oud
 - Nova college
 - Software developer niveau 4 student
 - Voetbal 
