@@ -11,7 +11,7 @@
 - 16 jaar oud
 - Nova college
 - Software developer niveau 4 student
-- Voetbal & gamen
+- Voetbal 
 
 
 <h3 align="left">🛠️Talen</h3>
