@@ -13,7 +13,6 @@
 - Software developer niveau 4 student
 - Voetbal 
 
-
 <h3 align="left">🛠️Talen</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -22,6 +21,10 @@
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+      alt="css3"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
       alt="css3"/>
   </a>
  <a href="https://www.w3schools.com/c#/" target="_blank">
