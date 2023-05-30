@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
       alt="css3"/>
   </a>
- <a href="https://www.w3schools.com/c#/" target="_blank">
+ <a href="https://www.w3schools.com/javascript/" target="_blank">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
       alt="css3"/>
   </a>
